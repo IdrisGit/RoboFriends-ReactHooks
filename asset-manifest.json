@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IdrisGit/RoboFriends-ReactHooks/static/css/main.2b2106c7.css",
+    "main.js": "/IdrisGit/RoboFriends-ReactHooks/static/js/main.c3567a15.js",
+    "static/js/787.32032a02.chunk.js": "/IdrisGit/RoboFriends-ReactHooks/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/IdrisGit/RoboFriends-ReactHooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/IdrisGit/RoboFriends-ReactHooks/index.html",
+    "main.2b2106c7.css.map": "/IdrisGit/RoboFriends-ReactHooks/static/css/main.2b2106c7.css.map",
+    "main.c3567a15.js.map": "/IdrisGit/RoboFriends-ReactHooks/static/js/main.c3567a15.js.map",
+    "787.32032a02.chunk.js.map": "/IdrisGit/RoboFriends-ReactHooks/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2106c7.css",
+    "static/js/main.c3567a15.js"
+  ]
+}

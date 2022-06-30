@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IdrisGit/RoboFriends-ReactHooks/static/css/main.2b2106c7.css",
-    "main.js": "/IdrisGit/RoboFriends-ReactHooks/static/js/main.c3567a15.js",
-    "static/js/787.32032a02.chunk.js": "/IdrisGit/RoboFriends-ReactHooks/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/IdrisGit/RoboFriends-ReactHooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/IdrisGit/RoboFriends-ReactHooks/index.html",
-    "main.2b2106c7.css.map": "/IdrisGit/RoboFriends-ReactHooks/static/css/main.2b2106c7.css.map",
-    "main.c3567a15.js.map": "/IdrisGit/RoboFriends-ReactHooks/static/js/main.c3567a15.js.map",
-    "787.32032a02.chunk.js.map": "/IdrisGit/RoboFriends-ReactHooks/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/RoboFriends-ReactHooks/static/css/main.22cddc82.css",
+    "main.js": "/RoboFriends-ReactHooks/static/js/main.db1a2fce.js",
+    "static/js/787.d0e6de60.chunk.js": "/RoboFriends-ReactHooks/static/js/787.d0e6de60.chunk.js",
+    "static/media/SEGA.woff": "/RoboFriends-ReactHooks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboFriends-ReactHooks/index.html",
+    "main.22cddc82.css.map": "/RoboFriends-ReactHooks/static/css/main.22cddc82.css.map",
+    "main.db1a2fce.js.map": "/RoboFriends-ReactHooks/static/js/main.db1a2fce.js.map",
+    "787.d0e6de60.chunk.js.map": "/RoboFriends-ReactHooks/static/js/787.d0e6de60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b2106c7.css",
-    "static/js/main.c3567a15.js"
+    "static/css/main.22cddc82.css",
+    "static/js/main.db1a2fce.js"
   ]
 }
